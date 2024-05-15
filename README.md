@@ -1,4 +1,4 @@
-<em> # Conversor de Divisas </em>
+## Conversor de Divisas
 
 
 ## :hammer:Funcionalidades del proyecto
